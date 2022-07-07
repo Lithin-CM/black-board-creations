@@ -585,6 +585,9 @@ section {
 .services .icon-box:hover h4 a{
   color: #fff;
 }
+.services .icon-box p{
+  color: #000;
+}
 .services .icon-box:hover p{
   color: #fff;
 }
@@ -860,7 +863,6 @@ section {
   margin: 0 0 0 50px;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
- 
 }
 .counts .content .count-box a {
   font-weight: 600;
